@@ -8,4 +8,5 @@ formulario.addEventListener("submit", (e) => {
     console.log(userName.value);
     console.log(userEmail.value);
     alert("Estimad@ " + userName.value + ", formulario enviado, gracias por apoyarnos!")
+    document.getElementById("formulario").reset();
 });
