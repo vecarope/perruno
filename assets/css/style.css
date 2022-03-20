@@ -1,0 +1,77 @@
+body {
+    width: 100%;
+}
+
+nav {
+    background-color: #6dccaa;
+}
+
+a {
+    color: whitesmoke;
+    margin: 5px;
+}
+
+a:hover {
+    color: peru;
+}
+
+.navbar-nav {
+    text-align: right;
+    text-decoration: none;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: peru;
+}
+
+.carousel-title {
+    font-size: xx-large;
+}
+
+.text-1 {
+    font-size: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: peru;
+    font-weight: bolder;
+    text-align: center;
+    padding: 40px 0px 20px 0px;
+}
+
+div.card {
+    margin: 20px 0px 20px 0px;
+}
+
+.card-deck {
+    margin: 0
+}
+
+.container-form {
+    margin: 30px 40px 30px 40px;
+}
+
+form {
+    padding: 0px 100px 0px 100px;
+}
+
+.btn {
+    background-color: #6dccaa;
+    border-color: peru;
+}
+
+.btn:hover {
+    background-color: peru;
+    border-color: #6dccaa;
+}
+
+.btn:active {
+    background-color: #6dccaa;
+    border-color: peru;
+}
+
+.icon-fab {
+    background-color: peru;
+}
